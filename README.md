@@ -2,9 +2,6 @@
 
 > 💬 最近在写书
 
-<a href="https://github.com/dashnowords/blogs">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dashnowords&show_icons=true&theme=buefy" /></a>
-
 ### 关于我
 
 - 🔭 我在:musical_note:**字节跳动**:musical_note: 幸福里团队做**前端工程师**
@@ -18,8 +15,6 @@
   - 2018年华为云社区特别贡献奖(1/10)
   - 2019GDG Xi'an DevFest 闪电演讲嘉宾
   - 西安交通大学航天学院外聘软件技术专家
-
-
 
 
 ### 【字节跳动幸福里前端团队】持续招聘，长期有效
@@ -55,4 +50,7 @@
 7、有工程化建设，Hybrid，图形学开发经验者优先;
 
 8、有高质量开源项目或个人技术博客者优先。
+
+<a href="https://github.com/dashnowords/blogs">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dashnowords&show_icons=true&theme=buefy" /></a>
 
