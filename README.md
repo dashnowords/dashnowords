@@ -2,7 +2,7 @@
 
 > 💬我的新书《前端跨界开发指南-JavaScript工具库原理解析与实战》即将上架，敬请关注~
 
-<img src="book_ui.jpg" alt="book_ui" width="400" />
+<img src="https://user-images.githubusercontent.com/19146353/179382876-dcfb32dc-3e17-468c-b5d4-5fc35aee6c3d.jpg" alt="book_ui" width="400" />
 
 ### 关于我
 
