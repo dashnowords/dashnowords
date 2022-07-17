@@ -2,7 +2,7 @@
 
 > 💬我的新书  **《前端跨界开发指南-JavaScript工具库原理解析与实战》** 即将上架，敬请关注~
 >
-> [【随书代码仓的传送门】](https://github.com/dashnowords/imfe)        [【掘金主页的传送门】](https://juejin.cn/user/2946346892662136)
+> [【随书代码仓】](https://github.com/dashnowords/imfe)   [【我的技术博客】](https://github.com/dashnowords/blogs)     [【掘金主页】](https://juejin.cn/user/2946346892662136)
 
 <img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f115132f49104dbabbc024db08a04b95~tplv-k3u1fbpfcp-watermark.image?" alt="book_ui" width="300" />
 
