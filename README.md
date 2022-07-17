@@ -2,7 +2,7 @@
 
 > 💬我的新书《前端跨界开发指南-JavaScript工具库原理解析与实战》即将上架，敬请关注~
 
-![book_ui](https://github.com/dashnowords/dashnowords#book_ui.jpg)
+<img src="book_ui.jpg" alt="book_ui" width="400" />
 
 ### 关于我
 
