@@ -4,7 +4,8 @@
 >
 > [【随书代码仓】](https://github.com/dashnowords/imfe)   [【我的技术博客】](https://github.com/dashnowords/blogs)     [【掘金主页】](https://juejin.cn/user/2946346892662136)
 
-<img src="https://user-images.githubusercontent.com/19146353/183053377-b26615a1-645e-4b92-b404-9d0df8a7aefd.png" alt="book_ui" width="300" />
+<img align="top" src="https://user-images.githubusercontent.com/19146353/183053377-b26615a1-645e-4b92-b404-9d0df8a7aefd.png" alt="book_ui" width="300" /><img align="top" src="https://user-images.githubusercontent.com/19146353/185374743-babc95c5-2cbb-42f0-9d68-4535253988e1.png" alt="book_ui" width="300" />
+
 
 ### 关于我
 
